@@ -6,9 +6,9 @@ import time
 # Listens for a '/info' command and replies.
 
 # !!! REPLACE THESE WITH YOUR BOT'S TOKEN AND YOUR ROOM ID !!!
-BOT_ACCESS_TOKEN = "YOUR_BOT_ACCESS_TOKEN_HERE"
-ROOM_ID = "YOUR_ROOM_ID_HERE"
-BOT_EMAIL = "your_bot_username@webex.bot" # IMPORTANT: Put your bot's email here
+BOT_ACCESS_TOKEN = "ZTRmMzYzNzUtNTA0My00NTZhLWI3NjktNmZmMTlhZTIwYzgwYWUyN2I2NjMtZTE4_PI91_0a580452-355c-476d-ac56-e3c2abad701d"
+ROOM_ID = "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vMjViYjdmZjAtN2YzMy0xMWYwLWEwOGMtMjdmYzFmODljYTli"
+BOT_EMAIL = "CoolBoy@webex.bot" # IMPORTANT: Put your bot's email here
 
 headers = {
     "Authorization": f"Bearer {BOT_ACCESS_TOKEN}",
